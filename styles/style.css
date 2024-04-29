@@ -94,6 +94,14 @@ body{
     border-radius: 25px;
 }
 
+.rodape,
+.rodape__texto {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media (max-width: 720px) {
     .apresentacao{
         display: flex;
